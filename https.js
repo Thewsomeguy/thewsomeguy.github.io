@@ -1,0 +1,1 @@
+var host="thewsomeguy.github.io";host==window.location.host&&"https:"!=window.location.protocol&&(window.location.protocol="https");
