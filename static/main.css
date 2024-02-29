@@ -1,0 +1,16 @@
+body {
+  font-family: "Inter", apple-system, system-ui, "Helvetica", "Arial", sans-serif;
+  background-color: #050505;
+  color: #e5e5e5;
+  margin: 0;
+}
+
+.subtitle {
+  font-weight: 500;
+  font-size: 1.125rem;
+}
+
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
